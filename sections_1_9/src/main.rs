@@ -6,6 +6,7 @@ mod section_6;
 mod section_7;
 mod section_8;
 mod section_9;
+mod section_10;
 
 fn main() {
   // section_2::run();
@@ -14,5 +15,6 @@ fn main() {
   // section_5::run();
   // section_7::run();
   // section_8::run();
-  section_9::run();
+  // section_9::run();
+  section_10::run();
 }
